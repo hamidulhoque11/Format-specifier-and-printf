@@ -1,4 +1,8 @@
-//Format Specifier and Printf
+
+**Format Specifier and Printf**
+<div style="overflow-x:auto;">
+<pre>
+<code>
 class Main {
     public static void main(String[] args) {
         boolean b = true;
@@ -17,3 +21,6 @@ class Main {
         
     }
 }
+</code>
+</pre>
+</div>
